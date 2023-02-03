@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TOXiNdeep
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python for data science.
-- 💞️ I’m looking to collaborate on data analytics.
+- 💞️ I’m looking to collaborate on data science and data analysis.
 - 📫 How to reach me, Instagram:deeep.03
 
 <!---
